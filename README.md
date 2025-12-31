@@ -37,6 +37,12 @@ Vercel • Netlify
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AtherHussenMurad81&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## 🔥 What I Do
+- Build responsive and user-friendly web interfaces
+- Develop full-stack MERN applications
+- Work with REST APIs & authentication
+- Follow clean code and best practices
+
 ---
 [![](https://visitcount.itsvg.in/api?id=AtherHussenMurad81&icon=0&color=0)](https://visitcount.itsvg.in)
 
