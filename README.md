@@ -1,4 +1,11 @@
 
+## 👋 Hi, I'm Ather Hussen Murad
+
+🚀 A passionate **MERN Stack Developer** focused on building modern, responsive, and scalable web applications.  
+💡 I enjoy writing clean code, solving real-world problems, and collaborating on team projects.  
+🌱 Currently improving my skills in **Next.js, NestJS, and backend architecture**.
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hussen.murad.104) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hussenmurad) 
 
