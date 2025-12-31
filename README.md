@@ -3,7 +3,7 @@
 
 <p align="center">
   <img 
-    src="[https://media.licdn.com/dms/image/v2/D5616AQFr0wfTtvUjAQ/profile-displaybackgroundimage-shrink_350_1400/B56ZtzEVTfGsAc-/0/1767162075565?e=1769040000&v=beta&t=gYiaKl3rCgsKZbDmq8q6ZPR0qq8zCwLpWjyJ0CEEOmk](https://i.ibb.co.com/39HBsSys/Screenshot-2025-12-31-151934.png)"
+    src="[[https://media.licdn.com/dms/image/v2/D5616AQFr0wfTtvUjAQ/profile-displaybackgroundimage-shrink_350_1400/B56ZtzEVTfGsAc-/0/1767162075565?e=1769040000&v=beta&t=gYiaKl3rCgsKZbDmq8q6ZPR0qq8zCwLpWjyJ0CEEOmk](https://i.ibb.co.com/39HBsSys/Screenshot-2025-12-31-151934.png)](https://i.ibb.co.com/39HBsSys/Screenshot-2025-12-31-151934.png)"
     alt="Ather Hussen Murad Banner"
     width="100%"
   />
