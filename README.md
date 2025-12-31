@@ -1,6 +1,38 @@
 
 ## 👋 Hi, I'm Ather Hussen Murad
 
+<svg width="100%" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f2027;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#203a43;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2c5364;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#grad)" rx="20"/>
+
+  <text x="50%" y="42%" text-anchor="middle"
+        font-size="48" fill="#ffffff"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-weight="700">
+    Ather Hussen Murad
+  </text>
+
+  <text x="50%" y="60%" text-anchor="middle"
+        font-size="24" fill="#cfd9df"
+        font-family="Segoe UI, Arial, sans-serif">
+    MERN Stack Developer • Clean Code • Scalable Web Apps
+  </text>
+
+  <text x="50%" y="75%" text-anchor="middle"
+        font-size="18" fill="#9fb3c8"
+        font-family="Segoe UI, Arial, sans-serif">
+    React • Next.js • Node.js • MongoDB • NestJS
+  </text>
+</svg>
+
+
 🚀 A passionate **MERN Stack Developer** focused on building modern, responsive, and scalable web applications.  
 💡 I enjoy writing clean code, solving real-world problems, and collaborating on team projects.  
 🌱 Currently improving my skills in **Next.js, NestJS, and backend architecture**.
