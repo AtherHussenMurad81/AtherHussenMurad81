@@ -1,5 +1,6 @@
 
-## 👋 Hi, I'm Ather Hussen Murad
+# 👋 Hi, I'm Ather Hussen Murad
+### I am a MERN Stack Developer
 
 <p align="center">
   <img 
