@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm Ather Hussen Murad
-### I am a MERN Stack Developer
+###  I am a motivated 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 with a strong foundation in build modern responsive and scalable web application. I have hands-on experience working with 𝗠𝗼𝗻𝗴𝗼𝗗𝗕, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀.𝗷𝘀, 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀 𝗮𝗻𝗱 𝗡𝗼𝗱𝗲.𝗷𝘀 along with supporting technologies such as 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭 (𝐄𝐒𝟔+), 𝐍𝐞𝐱𝐭.𝐣𝐬, 𝐑𝐞𝐚𝐜𝐭.𝐣𝐬, 𝐓𝐚𝐢𝐥𝐰𝐢𝐧𝐝 𝐂𝐒𝐒 𝐚𝐧𝐝 𝐅𝐢𝐫𝐞𝐛𝐚𝐬𝐞 𝐀𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜𝐚𝐭𝐢𝐨𝐧.
 
 <p align="center">
   <img 
