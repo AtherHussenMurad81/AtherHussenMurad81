@@ -4,7 +4,7 @@
 
 <p align="center">
   <img 
-    src="https://i.ibb.co/39HBsSys/Screenshot-2025-12-31-151934.png"
+    src="[https://i.ibb.co/39HBsSys/Screenshot-2025-12-31-151934.png](https://i.ibb.co.com/hJtGwbp2/Yellow-and-Blue-Modern-Business-Development-Presentation.jpg)"
     alt="Ather Hussen Murad Banner"
     width="100%"
   />
